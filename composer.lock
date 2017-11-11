@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "62e09cd966c39d95e7c808ce0ec37fd6",
-    "content-hash": "26be34cc0584230d1345698a3e9fa2c0",
+    "hash": "fd917ea8d042bd5f2c5164d15889ad08",
+    "content-hash": "f8e6ce909245b6ed5f21062091461b79",
     "packages": [
         {
             "name": "abdala/omnipay-pagseguro",
@@ -4089,7 +4089,7 @@
             "package": "omnipay/authorizenet"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": {
         "dwolla/omnipay-dwolla": 20,
         "alfaproject/omnipay-skrill": 20,
@@ -4109,7 +4109,7 @@
         "omnipay/gocardless": 20,
         "omnipay/stripe": 20
     },
-    "prefer-stable": false,
+    "prefer-stable": true,
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": []
