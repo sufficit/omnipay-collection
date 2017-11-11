@@ -45,25 +45,9 @@
         "vink/omnipay-komoju": "~1.0",
         "fotografde/omnipay-checkoutcom": "~2.0"
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "config": {
         "preferred-install": "dist",
         "sort-packages": true,
         "optimize-autoloader": true
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/hillelcoren/omnipay-wepay"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/hillelcoren/omnipay-gocardlessv2"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/hillelcoren/omnipay-authorizenet"
-        }
-    ]
+    }
 }
