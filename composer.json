@@ -25,7 +25,6 @@
         "digitickets/omnipay-realex": "~5.0",
         "dioscouri/omnipay-cybersource": "dev-master",
         "fruitcakestudio/omnipay-sisow": "~2.0",
-        "incube8/omnipay-multicards": "dev-master",
         "justinbusschau/omnipay-secpay": "~2.0",
         "lokielse/omnipay-alipay": "~1.4",
         "meebio/omnipay-creditcall": "dev-master",
