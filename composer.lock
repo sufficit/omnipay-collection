@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "75c6c5997ca6a8d8dc2b48ca378d5c0d",
-    "content-hash": "e951dc989efdf59dd86332ad07588224",
+    "hash": "6ece33f6ceaac87fc873412b99b7ec61",
+    "content-hash": "ce96c727da30742ed3095c6a6d3a2ef9",
     "packages": [
         {
             "name": "abdala/omnipay-pagseguro",
@@ -267,6 +267,50 @@
             ],
             "description": "Braintree PHP Client Library",
             "time": "2017-12-14 00:08:17"
+        },
+        {
+            "name": "bramdevries/omnipay-paymill",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bramdevries/omnipay-paymill.git",
+                "reference": "df264a980b4b6005899f659d55b24d5c125d7e2e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bramdevries/omnipay-paymill/zipball/df264a980b4b6005899f659d55b24d5c125d7e2e",
+                "reference": "df264a980b4b6005899f659d55b24d5c125d7e2e",
+                "shasum": ""
+            },
+            "require": {
+                "omnipay/common": "~2.0"
+            },
+            "require-dev": {
+                "omnipay/tests": "~2.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Omnipay\\Paymill\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Bram Devries",
+                    "email": "bramdevries93@gmail.com"
+                }
+            ],
+            "description": "Paymill driver for the Omnipay payment processing library",
+            "keywords": [
+                "gateway",
+                "merchant",
+                "omnipay",
+                "pay",
+                "payment",
+                "paymill"
+            ],
+            "time": "2014-12-14 17:00:43"
         },
         {
             "name": "cardgate/omnipay-cardgate",

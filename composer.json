@@ -15,6 +15,7 @@
         "agmscode/omnipay-agms": "~1.0",
         "alfaproject/omnipay-skrill": "dev-master",
         "andreas22/omnipay-fasapay": "1.*",
+        "bramdevries/omnipay-paymill": "^1.0",
         "cardgate/omnipay-cardgate": "~2.0",
         "delatbabel/omnipay-fatzebra": "dev-master",
         "dercoder/omnipay-ecopayz": "~1.0",
@@ -24,6 +25,7 @@
         "digitickets/omnipay-datacash": "~3.0",
         "digitickets/omnipay-realex": "~5.0",
         "dioscouri/omnipay-cybersource": "dev-master",
+        "fotografde/omnipay-checkoutcom": "~2.0",
         "fruitcakestudio/omnipay-sisow": "~2.0",
         "justinbusschau/omnipay-secpay": "~2.0",
         "lokielse/omnipay-alipay": "~1.4",
@@ -38,8 +40,7 @@
         "omnipay/omnipay": "~2.3",
         "omnipay/stripe": "dev-master",
         "softcommerce/omnipay-paytrace": "~1.0",
-        "vink/omnipay-komoju": "~1.0",
-        "fotografde/omnipay-checkoutcom": "~2.0"
+        "vink/omnipay-komoju": "~1.0"
     },
     "config": {
         "preferred-install": "dist",
