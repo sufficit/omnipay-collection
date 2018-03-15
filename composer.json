@@ -34,7 +34,7 @@
         "mfauveau/omnipay-pacnet": "~2.0",
         "omnipay/2checkout": "dev-master#e9c079c2dde0d7ba461903b3b7bd5caf6dee1248",
         "omnipay/bitpay": "dev-master",
-        "omnipay/braintree": "~2.0@dev",
+        "omnipay/braintree": "^1.1",
         "omnipay/gocardless": "dev-master",
         "omnipay/mollie": "3.*",
         "omnipay/omnipay": "~2.3",
