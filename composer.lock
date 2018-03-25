@@ -223,16 +223,16 @@
         },
         {
             "name": "braintree/braintree_php",
-            "version": "3.29.0",
+            "version": "3.30.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/braintree/braintree_php.git",
-                "reference": "0cf12317ff49d5b60667d0009df96a54f7e99b8d"
+                "reference": "7053be17ec7cd3040d019779bdb5cd89a3b95a94"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/braintree/braintree_php/zipball/0cf12317ff49d5b60667d0009df96a54f7e99b8d",
-                "reference": "0cf12317ff49d5b60667d0009df96a54f7e99b8d",
+                "url": "https://api.github.com/repos/braintree/braintree_php/zipball/7053be17ec7cd3040d019779bdb5cd89a3b95a94",
+                "reference": "7053be17ec7cd3040d019779bdb5cd89a3b95a94",
                 "shasum": ""
             },
             "require": {
@@ -266,7 +266,7 @@
                 }
             ],
             "description": "Braintree PHP Client Library",
-            "time": "2018-02-27 22:51:38"
+            "time": "2018-03-20 20:14:04"
         },
         {
             "name": "bramdevries/omnipay-paymill",
