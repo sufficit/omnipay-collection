@@ -10,7 +10,6 @@
         }
     ],
     "require": {
-        "Dwolla/omnipay-dwolla": "dev-master",
         "abdala/omnipay-pagseguro": "0.2",
         "agmscode/omnipay-agms": "~1.0",
         "alfaproject/omnipay-skrill": "dev-master",
