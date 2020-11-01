@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "61017638247c1a8c2ba43e4788cdcdf9",
+    "content-hash": "cd5748d206dce87c602af7b9581e528e",
     "packages": [
         {
             "name": "abdala/omnipay-pagseguro",
@@ -1274,16 +1274,16 @@
         },
         {
             "name": "omnipay/2checkout",
-            "version": "dev-master",
+            "version": "v2.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/omnipay-2checkout.git",
-                "reference": "e9c079c2dde0d7ba461903b3b7bd5caf6dee1248"
+                "reference": "31394ce58d5999b6f49b321cb3547747837c1297"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/omnipay-2checkout/zipball/e9c079c2dde0d7ba461903b3b7bd5caf6dee1248",
-                "reference": "e9c079c2dde0d7ba461903b3b7bd5caf6dee1248",
+                "url": "https://api.github.com/repos/thephpleague/omnipay-2checkout/zipball/31394ce58d5999b6f49b321cb3547747837c1297",
+                "reference": "31394ce58d5999b6f49b321cb3547747837c1297",
                 "shasum": ""
             },
             "require": {
@@ -1329,7 +1329,7 @@
                 "payment",
                 "twocheckout"
             ],
-            "time": "2016-03-25T10:39:58+00:00"
+            "time": "2014-09-17T00:35:37+00:00"
         },
         {
             "name": "omnipay/authorizenet",
@@ -3502,7 +3502,6 @@
         "dioscouri/omnipay-cybersource": 20,
         "meebio/omnipay-creditcall": 20,
         "meebio/omnipay-secure-trading": 20,
-        "omnipay/2checkout": 20,
         "omnipay/bitpay": 20,
         "omnipay/gocardless": 20,
         "omnipay/payfast": 20
