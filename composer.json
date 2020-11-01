@@ -12,7 +12,6 @@
     "require": {
         "abdala/omnipay-pagseguro": "0.2",
         "agmscode/omnipay-agms": "~1.0",
-        "alfaproject/omnipay-skrill": "dev-master",
         "andreas22/omnipay-fasapay": "1.*",
         "bramdevries/omnipay-paymill": "^1.0",
         "cardgate/omnipay-cardgate": "~2.0",
