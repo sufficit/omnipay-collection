@@ -18,7 +18,6 @@
         "delatbabel/omnipay-fatzebra": "dev-master",
         "dercoder/omnipay-ecopayz": "~1.0",
         "dercoder/omnipay-paysafecard": "dev-master",
-        "descubraomundo/omnipay-pagarme": "dev-master",
         "digitickets/omnipay-barclays-epdq": "~3.0",
         "digitickets/omnipay-datacash": "~3.0",
         "digitickets/omnipay-realex": "~5.0",

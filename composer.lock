@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cd5748d206dce87c602af7b9581e528e",
+    "content-hash": "beb4513cb1482f02949c580b84c84cbc",
     "packages": [
         {
             "name": "abdala/omnipay-pagseguro",
@@ -474,56 +474,6 @@
                 "paysafecard"
             ],
             "time": "2016-06-21T10:42:41+00:00"
-        },
-        {
-            "name": "descubraomundo/omnipay-pagarme",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/descubraomundo/omnipay-pagarme.git",
-                "reference": "99e92dffd1640bdaf736560e26ec244326a3dd4a"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/descubraomundo/omnipay-pagarme/zipball/99e92dffd1640bdaf736560e26ec244326a3dd4a",
-                "reference": "99e92dffd1640bdaf736560e26ec244326a3dd4a",
-                "shasum": ""
-            },
-            "require": {
-                "omnipay/common": "~2.0",
-                "php": ">=5.3.0"
-            },
-            "require-dev": {
-                "codeclimate/php-test-reporter": "^0.1.0@dev",
-                "omnipay/tests": "~2.0"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Omnipay\\Pagarme\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Descubra o Mundo",
-                    "email": "geeks@descubraomundo.com"
-                }
-            ],
-            "description": "Pagarme driver for the Omnipay payment processing library",
-            "homepage": "https://github.com/descubraomundo/omnipay-pagarme",
-            "keywords": [
-                "gateway",
-                "merchant",
-                "omnipay",
-                "pagarme",
-                "pay",
-                "payment"
-            ],
-            "time": "2017-09-15T17:25:40+00:00"
         },
         {
             "name": "digitickets/omnipay-barclays-epdq",
@@ -3498,7 +3448,6 @@
     "stability-flags": {
         "delatbabel/omnipay-fatzebra": 20,
         "dercoder/omnipay-paysafecard": 20,
-        "descubraomundo/omnipay-pagarme": 20,
         "dioscouri/omnipay-cybersource": 20,
         "meebio/omnipay-creditcall": 20,
         "meebio/omnipay-secure-trading": 20,
