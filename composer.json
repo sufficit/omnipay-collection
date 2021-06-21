@@ -1,5 +1,5 @@
 {
-    "name": "invoiceninja/omnipay-collection",
+    "name": "sufficit/omnipay-collection",
     "description": "Collection of Omnipay drivers",
     "type": "library",
     "license": "MIT",
