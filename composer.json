@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "abdala/omnipay-pagseguro": "0.2",
+        "abdala/omnipay-pagseguro": "1.3",
         "agmscode/omnipay-agms": "~1.0",
         "andreas22/omnipay-fasapay": "1.*",
         "bramdevries/omnipay-paymill": "^1.0",
